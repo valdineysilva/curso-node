@@ -1,0 +1,29 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Do zero ao deploy com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valdineysilva/curso-node.git"
+  },
+  "keywords": [
+    "node",
+    "curso",
+    "puc"
+  ],
+  "author": "Valdiney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valdineysilva/curso-node/issues"
+  },
+  "homepage": "https://github.com/valdineysilva/curso-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
